@@ -2,6 +2,7 @@
 
 ## What this is.
 - A Selenium script to scrape the YouTube Trending page and extract all the video stats
+- You can see [this CSV file](https://github.com/aditsawant/Scraping-YouTube-Trending-Page/blob/master/Trending_Page_Data.csv) for a demo of how the data will look like.
 
 ## Why.
 - Having only worked with ```beautifulsoup4``` before, I wanted to explore ```selenium``` as well.
