@@ -10,4 +10,5 @@
 - I got two pizzas in return :P
 
 ## Scope for improvement.
-- 
+- Extract first hundred comments and perform Sentiment Analysis on them to rate the quality of content out of 10.
+- Scrape other stats about the YouTubers (might be useful data).
